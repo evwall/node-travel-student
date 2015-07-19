@@ -1,6 +1,12 @@
 body {
   padding: 50px;
+  background-color: blue;
+  color: white;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+div.location {
+  border: 5px dotted white;
 }
 a {
   color: #00b7ff;
